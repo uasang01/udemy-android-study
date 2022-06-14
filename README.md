@@ -71,17 +71,3 @@ Dagger Hilt
 View Binding
 
 Jetpack Compose
-
-and much more!
-
-You will get lifetime access to over 270 lectures plus corresponding code samples and notes for the lectures! 
-
-This course comes with a 30 day money back guarantee! If you are not satisfied in any way, you'll get your money back. Plus you will keep access to the Notes and Code Samples as a thank you for trying out the course!
-
-So what are you waiting for? Start mastering Android Architecture Components with Dagger and Retrofit  in a way that will advance your career and increase your knowledge, all in a fun and practical way!
-
-Who is the target audience?
-
-Beginners level Android Developers (with the basic knowledge of Android Development fundamentals).
-
-Intermediate level android developers  who want to level up their skills!
